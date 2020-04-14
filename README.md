@@ -3,9 +3,11 @@
 <img src="https://github.com/theshivamlko/flutter-lottie-animation/blob/master/example.gif?raw=true">
 
 
-## Project Created & Maintained By
 
 ### Shivam Srivastava
+Mobile Solution Architect
+Android/Flutter Developer
+<a href="https://navoki.com">Founder at Navoki.com</a>
 
 <a href="https://twitter.com/theshivamlko"><img src="https://navoki.com/wp-content/uploads/2020/04/twitter-icon.png" width="60"></a>
 <a href="https://medium.com/@theshivamlko"><img src="https://navoki.com/wp-content/uploads/2020/04/medium-icon.png" width="60"></a>
