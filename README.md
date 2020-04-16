@@ -1,7 +1,7 @@
 # Flutter Lottie Animation
 Read the blog on this here https://navoki.com/flutter-lottie-animation
 
-<img src="https://github.com/theshivamlko/flutter-lottie-animation/blob/master/example.gif?raw=true">
+<img src="https://github.com/theshivamlko/flutter-lottie-animation/blob/master/example.gif?raw=true"/>
 
 
 
